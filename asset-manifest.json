@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-movie-list/static/css/main.a8edad01.css",
-    "main.js": "/react-movie-list/static/js/main.9d4fbf9c.js",
-    "static/media/loading.gif": "/react-movie-list/static/media/loading.803f24369a085e35482e.gif",
-    "index.html": "/react-movie-list/index.html",
-    "main.a8edad01.css.map": "/react-movie-list/static/css/main.a8edad01.css.map",
-    "main.9d4fbf9c.js.map": "/react-movie-list/static/js/main.9d4fbf9c.js.map"
+    "main.css": "/react-movie-list.git/static/css/main.a8edad01.css",
+    "main.js": "/react-movie-list.git/static/js/main.ff4f51ab.js",
+    "static/media/loading.gif": "/react-movie-list.git/static/media/loading.803f24369a085e35482e.gif",
+    "index.html": "/react-movie-list.git/index.html",
+    "main.a8edad01.css.map": "/react-movie-list.git/static/css/main.a8edad01.css.map",
+    "main.ff4f51ab.js.map": "/react-movie-list.git/static/js/main.ff4f51ab.js.map"
   },
   "entrypoints": [
     "static/css/main.a8edad01.css",
-    "static/js/main.9d4fbf9c.js"
+    "static/js/main.ff4f51ab.js"
   ]
 }
